@@ -12,7 +12,7 @@ class MethodOverloading {
     }
 }
 
-public class AreaOfDiffShapesV2 {
+public class MethodOverloading {
     public static void main(String[] args) {
         double radius, circleArea, length, breadth, rectangleArea, base, height, triangleArea;
         Scanner sc = new Scanner(System.in);
