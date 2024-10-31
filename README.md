@@ -23,3 +23,7 @@ Sl. No| Experiment
 16|GUI: Traffic Light using swing (Applet)
 17|Quick Sort
 18|Doubly Linked List
+
+
+
+**May Varies according to colleges
