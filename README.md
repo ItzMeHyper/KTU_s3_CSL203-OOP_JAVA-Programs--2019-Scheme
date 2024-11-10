@@ -22,7 +22,7 @@ Sl. No| Experiment
 15|GUI: Calculator using swing 
 16|GUI: Traffic Light using swing
 17|Quick Sort
-18|Doubly Linked List
+18|Method Overriding 
 
 
 
