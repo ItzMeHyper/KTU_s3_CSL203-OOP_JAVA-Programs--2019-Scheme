@@ -19,8 +19,8 @@ Sl. No| Experiment
 12|String Tokenizer
 13|Multithreading
 14|Thread Synchronization
-15|GUI: Calculator using swing (Applet) 
-16|GUI: Traffic Light using swing (Applet)
+15|GUI: Calculator using swing 
+16|GUI: Traffic Light using swing
 17|Quick Sort
 18|Doubly Linked List
 
